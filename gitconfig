@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = baptiste.buch@gmail.com
+	name = Baptiste Buchou
